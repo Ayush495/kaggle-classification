@@ -1,6 +1,6 @@
 # Kaggle - Classification
 
-"Those who cannot remember the past are condemned to repeat it." -- George Santayana
+"Those who cannot remember the past are condemned to repeat it....." -- George Santayana
 
 This is a compiled list of Kaggle competitions and their winning solutions for [classification](https://en.wikipedia.org/wiki/Statistical_classification) problems. 
 
